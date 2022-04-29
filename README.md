@@ -10,5 +10,6 @@ Prof.: Douglas H. S. Abreu
 
 ● Enviar o trabalho para o campus virtual, do seguinte modo: Notebook exportado em PDF contendo o código e também o link do repositório GitHub para acesso aos arquivos. A Documentação deve estar no readme
 
-Aluno: Marco Antônio Magalhães//
+Aluno: Marco Antônio Magalhães
+
 Documentos: Tabalho_Final.ipynb
